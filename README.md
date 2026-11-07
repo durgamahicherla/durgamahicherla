@@ -49,18 +49,21 @@ I'm a Computer Science student specializing in Artificial Intelligence and Machi
 
 ## 🚀 Projects
 
-### 1. ResolveIt — Grievance Management System
-A web-based application designed to help users submit grievances and track their resolution.
+### 1. WorkReach — AI-Based Job Platform *(In Progress)*
+An inclusive job platform concept designed to connect job seekers with suitable opportunities across IT and non-IT sectors.
 
-**Technologies:** HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
+**Planned Features:**
+- AI-based job recommendations
+- Job search for skilled and daily-wage workers
+- Voice assistance for easier access
+- Part-time and full-time job opportunities
 
-### 2. WorkReach — AI-Based Job Platform *(In Progress)*
-An idea for an inclusive job platform that connects job seekers with suitable opportunities across IT and non-IT sectors.
+**Technologies:** Angular, Spring Boot, MySQL, AI/ML (planned)
 
-**Planned Focus:** AI-based job matching, voice assistance and accessible job discovery.
-
-### 3. Full Stack Development Projects
+### 2. Full Stack Development Projects
 Hands-on projects developed while learning frontend and backend technologies, including Angular, Spring Boot and MySQL.
+
+
 
 ---
 
